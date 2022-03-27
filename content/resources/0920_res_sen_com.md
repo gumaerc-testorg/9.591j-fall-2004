@@ -32,6 +32,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 0920_res_sen_com.pdf
 uid: b1504ed7-d332-17b9-0b61-6c0de9b5272a

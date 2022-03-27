@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 1004_ambig_res.pdf
 uid: 6c01cbd3-6a1a-80cc-ddbe-9b1a09d19faf

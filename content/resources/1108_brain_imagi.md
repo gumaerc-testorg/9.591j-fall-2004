@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 1108_brain_imagi.pdf
 uid: ce801952-3884-cb26-263f-5d01415d1453

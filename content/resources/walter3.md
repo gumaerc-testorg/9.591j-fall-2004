@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e56924c2-4b98-0135-1a8a-3a075da2f03c
 resourcetype: Document
 title: walter3.pdf
 uid: 6214fbd7-cbb8-31f7-bd8e-f40a191629a3

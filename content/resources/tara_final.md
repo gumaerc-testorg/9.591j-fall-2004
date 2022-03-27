@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e56924c2-4b98-0135-1a8a-3a075da2f03c
 resourcetype: Document
 title: tara_final.pdf
 uid: 3376c707-cd1e-eaae-5257-e516187d4849

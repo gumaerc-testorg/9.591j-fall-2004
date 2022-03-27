@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: aa44dd02-db91-b2ea-f5a4-cec1a2777037
 resourcetype: Document
 title: 1018_tpdn_bottup.pdf
 uid: 01d49a09-8a65-fee2-093a-59343fbc6dff
