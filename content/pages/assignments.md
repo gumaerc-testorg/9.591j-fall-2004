@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section consists of four review papers, an oral presentation
+  of one of these review papers, and a term project or paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -20,22 +22,22 @@ Students will write four 3 page papers, briefly reviewing one or more of the pap
 
 Paper 1
 
-Summary and Discussion of Fedorenko, Gibson & Rohde 2004 ([PDF]({{< baseurl >}}/resources/tara1)), by Tara McAllister.  
-Working Memory and Sentence Processing ([PDF]({{< baseurl >}}/resources/paper1)), by Anon.
+Summary and Discussion of Fedorenko, Gibson & Rohde 2004 ({{% resource_link 0590a862-d368-1f14-94d6-60f4b348add0 "PDF" %}}), by Tara McAllister.  
+Working Memory and Sentence Processing ({{% resource_link 09241e6d-1bc4-889a-78b5-32f87e3736ac "PDF" %}}), by Anon.
 
 Paper 2
 
-A lexical OCP effect for _that_? ([PDF]({{< baseurl >}}/resources/walter2)), by Mary Ann Walter.
+A lexical OCP effect for _that_? ({{% resource_link 6f19623e-f7db-188f-67d8-4d0a9192c286 "PDF" %}}), by Mary Ann Walter.
 
 Paper 3
 
-Event-Related Potentials (ERP) ([PDF]({{< baseurl >}}/resources/paper3)), by Anon.  
-Sentence Processing ([PDF]({{< baseurl >}}/resources/walter3)), by Mary Ann Walter.
+Event-Related Potentials (ERP) ({{% resource_link 60a3e475-5efa-712d-445c-04e1ac3aca2c "PDF" %}}), by Anon.  
+Sentence Processing ({{% resource_link 6214fbd7-cbb8-31f7-bd8e-f40a191629a3 "PDF" %}}), by Mary Ann Walter.
 
 Paper 4
 
-Sentence Processing ([PDF]({{< baseurl >}}/resources/paper4)), by Anon.  
-Prosodic Cues and Ambiguity Resolution ([PDF]({{< baseurl >}}/resources/walter4)), by Mary Ann Walter.
+Sentence Processing ({{% resource_link a643c3ab-d0b2-fa40-d2c7-93d142cd09d6 "PDF" %}}), by Anon.  
+Prosodic Cues and Ambiguity Resolution ({{% resource_link b62f5699-4659-3662-c9e5-247b6726a424 "PDF" %}}), by Mary Ann Walter.
 
 Oral Presentation
 -----------------
@@ -51,5 +53,5 @@ Students will produce a final project/paper, due three days after Lecture 12. I
 
 Term Paper
 
-Is _that_ a lexical OCP effect? ([PDF]({{< baseurl >}}/resources/walter_final)), by Mary Ann Walter.  
-Toward an Understanding of Working Memory in Parkinson’s Disease ([PDF]({{< baseurl >}}/resources/tara_final)), by Tara McAllister.
+Is _that_ a lexical OCP effect? ({{% resource_link f31aad2e-967b-ced4-ed8b-409334dbafeb "PDF" %}}), by Mary Ann Walter.  
+Toward an Understanding of Working Memory in Parkinson’s Disease ({{% resource_link 3376c707-cd1e-eaae-5257-e516187d4849 "PDF" %}}), by Tara McAllister.
