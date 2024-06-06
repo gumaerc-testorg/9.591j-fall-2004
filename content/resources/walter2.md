@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for the second paper assignment, courtesy of
   Mary Ann Walter.
 file: /courses/9-591j-language-processing-fall-2004/6f19623ef7db188f67d84d0a9192c286_walter2.pdf
+file_size: 69134
 file_type: application/pdf
 learning_resource_types:
 - Assignments
