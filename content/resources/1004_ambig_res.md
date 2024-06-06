@@ -4,6 +4,7 @@ description: 'Lecture presentation covering the following topics: Sentence proce
   Recap thus far, Locality effects in unambiguous structures, research results, Syntactic
   storage, and Ambiguity resolution.'
 file: /courses/9-591j-language-processing-fall-2004/6c01cbd36a1a80ccddbe9b1a09d19faf_1004_ambig_res.pdf
+file_size: 361654
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
