@@ -7,6 +7,7 @@ description: 'Example of student work for the final project / term paper assignm
   disease, grossman et al. (1992, 2002), kemmerer (1999), seidl et al. (1995), proposed
   experimental design, A different perspective: ullman et al. (1997), conclusions.'
 file: /courses/9-591j-language-processing-fall-2004/3376c707cd1eeaae5257e516187d4849_tara_final.pdf
+file_size: 197025
 file_type: application/pdf
 learning_resource_types:
 - Assignments
