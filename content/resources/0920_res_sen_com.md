@@ -25,7 +25,7 @@ description: 'Lecture presentation covering the following topics: Nested (or cen
   Clauses Hsiao & Gibson (2003), RC complexity processing theories, Ambiguity resolution,
   NN/RC (Grodner et al. 2002), Reading times at the disambiguating region "by the
   lawyer", Conclusions and Sentence processing: Summary.'
-file: /courses/9-591j-language-processing-fall-2004/b1504ed7d33217b90b616c0de9b5272a_0920_res_sen_com.pdf
+file: /ol-ocw-studio-app/courses/9-591j-language-processing-fall-2004/b1504ed7d33217b90b616c0de9b5272a_0920_res_sen_com.pdf
 file_size: 452145
 file_type: application/pdf
 learning_resource_types:
