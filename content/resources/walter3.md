@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for the third paper assignment, courtesy of Mary
   Ann Walter.
-file: /ol-ocw-studio-app/courses/9-591j-language-processing-fall-2004/6214fbd7cbb831f7bd8ef40a191629a3_walter3.pdf
+file: /courses/9-591j-language-processing-fall-2004/6214fbd7cbb831f7bd8ef40a191629a3_walter3.pdf
 file_size: 88159
 file_type: application/pdf
 learning_resource_types:

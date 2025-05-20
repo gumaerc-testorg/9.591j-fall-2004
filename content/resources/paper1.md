@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for the first paper assignment, courtesy of an
   anonymous student.
-file: /ol-ocw-studio-app/courses/9-591j-language-processing-fall-2004/09241e6d1bc4889a78b532f87e3736ac_paper1.pdf
+file: /courses/9-591j-language-processing-fall-2004/09241e6d1bc4889a78b532f87e3736ac_paper1.pdf
 file_size: 72000
 file_type: application/pdf
 learning_resource_types:
