@@ -57,7 +57,7 @@ Gibson, E., and N. Pearlmutter. "Constraints on sentence comprehension." _Trends
 
 Trueswell, J. C., and M. K. Tanenhaus. "Toward a lexicalist framework of constraint based syntactic ambiguity resolution." In _Perspectives in Sentence Processing_. Edited by C. Clifton, L. Frazier, and K. Rayner. Hillsdale, NJ: Lawrence Erlbaum, 1994, pp. 155-180. ISBN: 0805815821.
 
-{{% resource_link "9ed817ec-9cb9-4c83-957a-2e5c586b064a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Frazier, L., and C. Clifton, Jr. Chapter 1 in _Construal_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262061797.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061797) Frazier, L., and C. Clifton, Jr. Chapter 1 in _Construal_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262061797.
 
 Trueswell, J. C. "The role of lexical frequency in syntactic ambiguity resolution." _Journal of Memory and Language_ 35 (1996): 566-585.
 
@@ -89,7 +89,7 @@ The Dependency Locality Theory
 
 Gibson, E. "Linguistic complexity: Locality of syntactic dependencies." _Cognition_ 68 (1998): 1-76.
 
-{{% resource_link "305d99ba-7da7-4307-a66d-95e9df12706b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gibson, E. "The dependency locality theory: A distance-based theory of linguistic complexity." In {{% resource_link "305d99ba-7da7-4307-a66d-95e9df12706b" "_Image, Language, Brain_" %}}. Edited by Y. Miyashita, A. Marantz, and W. O'Neil. Cambridge, MA: MIT Press, 2000, pp. 95-126. ISBN: 0262133717.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/image-language-brain) Gibson, E. "The dependency locality theory: A distance-based theory of linguistic complexity." In [_Image, Language, Brain_](https://mitpress.mit.edu/books/image-language-brain). Edited by Y. Miyashita, A. Marantz, and W. O'Neil. Cambridge, MA: MIT Press, 2000, pp. 95-126. ISBN: 0262133717.
 
 Lewis, R. L. "Interference in short term memory: The magical number two (or three) in sentence processing." _Journal of Psycholinguistic Research_ 25 (1996): 93-117.
 
